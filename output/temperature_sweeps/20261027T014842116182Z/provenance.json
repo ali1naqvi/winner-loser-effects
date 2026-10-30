@@ -1,0 +1,47 @@
+{
+  "source_sweep": "/Volumes/ESD-USB/winner-loser-effects/data/control/temperature_sweeps/20261027T014842116182Z",
+  "runs": [
+    {
+      "experiment": 1,
+      "temperature": 0.0,
+      "unique_contests": 4172,
+      "undelivered_experiences": 54,
+      "manifest": "/Volumes/ESD-USB/winner-loser-effects/data/control/temperature_sweeps/20261027T014842116182Z/temperature_0.0_experiment_1/manifest.json"
+    },
+    {
+      "experiment": 1,
+      "temperature": 1.0,
+      "unique_contests": 4176,
+      "undelivered_experiences": 50,
+      "manifest": "/Volumes/ESD-USB/winner-loser-effects/data/control/temperature_sweeps/20261027T014842116182Z/temperature_1.0_experiment_1/manifest.json"
+    },
+    {
+      "experiment": 1,
+      "temperature": 2.0,
+      "unique_contests": 4174,
+      "undelivered_experiences": 59,
+      "manifest": "/Volumes/ESD-USB/winner-loser-effects/data/control/temperature_sweeps/20261027T014842116182Z/temperature_2.0_experiment_1/manifest.json"
+    },
+    {
+      "experiment": 2,
+      "temperature": 0.0,
+      "unique_contests": 2100,
+      "undelivered_experiences": 0,
+      "manifest": "/Volumes/ESD-USB/winner-loser-effects/data/control/temperature_sweeps/20261027T014842116182Z/temperature_0.0_experiment_2/manifest.json"
+    },
+    {
+      "experiment": 2,
+      "temperature": 1.0,
+      "unique_contests": 2100,
+      "undelivered_experiences": 0,
+      "manifest": "/Volumes/ESD-USB/winner-loser-effects/data/control/temperature_sweeps/20261027T014842116182Z/temperature_1.0_experiment_2/manifest.json"
+    },
+    {
+      "experiment": 2,
+      "temperature": 2.0,
+      "unique_contests": 2100,
+      "undelivered_experiences": 0,
+      "manifest": "/Volumes/ESD-USB/winner-loser-effects/data/control/temperature_sweeps/20261027T014842116182Z/temperature_2.0_experiment_2/manifest.json"
+    }
+  ]
+}

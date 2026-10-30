@@ -1,0 +1,8 @@
+.venv/
+.venv-win/
+__pycache__/
+*.pyc
+.plot_deps/
+tmp/
+._*
+data/*
